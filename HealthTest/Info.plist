@@ -27,7 +27,12 @@
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
+		<string>healthkit</string>
 	</array>
+	<key>NSMotionUsageDescription</key>
+	<string>运动与健康</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>健康</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
